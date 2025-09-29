@@ -1,0 +1,9 @@
+package main
+import “fmt”
+func main() {
+	myHelloWorldFunc()
+}
+func myHelloWorld (){
+	myHelloWorldVar := “hello world”
+	fmt.Println(myHelloWorldVar)
+}
